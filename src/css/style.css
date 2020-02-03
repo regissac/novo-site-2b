@@ -281,3 +281,17 @@ height: auto;
 display: flex;
 justify-content: center;
 }
+
+/*footer*/
+.blue{
+  background: blue;
+  height: 200px;
+}
+.red{
+  background: red;
+  height: 200px;
+}
+.green{
+  background: green;
+  height: 200px;
+}
